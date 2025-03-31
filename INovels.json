@@ -1,0 +1,134 @@
+[
+  {
+    "novelId": 1,
+    "title": "The Celestial Emperor",
+    "tag": ["cultivation", "martial arts", "rebirth"],
+    "genre": ["Fantasy", "Wuxia"],
+    "discription": "A fallen emperor returns to reclaim his throne.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Daoist Eternal",
+    "chapters": 120
+  },
+  {
+    "novelId": 2,
+    "title": "Chronicles of the Shadow Mage",
+    "tag": ["magic", "dark fantasy", "revenge"],
+    "genre": ["Fantasy", "Adventure"],
+    "discription": "A mage from the shadows rises to power.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Mystic Quill",
+    "chapters": 98
+  },
+  {
+    "novelId": 3,
+    "title": "Reincarnated Sword God",
+    "tag": ["reincarnation", "swordsman", "system"],
+    "genre": ["Xianxia", "Action"],
+    "discription": "A legendary swordsman reincarnates with a system.",
+    "coverImg": null,
+    "isCompleted": true,
+    "author": "Blade Sage",
+    "chapters": 250
+  },
+  {
+    "novelId": 4,
+    "title": "The Alchemist's Path",
+    "tag": ["alchemy", "adventure", "mystery"],
+    "genre": ["Fantasy", "Mystery"],
+    "discription": "An alchemist embarks on a journey for the Philosopher's Stone.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Elixir Master",
+    "chapters": 80
+  },
+  {
+    "novelId": 5,
+    "title": "Demonic Cultivator’s Rise",
+    "tag": ["demonic cultivation", "anti-hero", "power struggle"],
+    "genre": ["Xianxia", "Dark Fantasy"],
+    "discription": "A rogue cultivator walks the demonic path to supremacy.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Dark Lotus",
+    "chapters": 200
+  },
+  {
+    "novelId": 6,
+    "title": "God of War Reborn",
+    "tag": ["war", "revenge", "rebirth"],
+    "genre": ["Wuxia", "Action"],
+    "discription": "A mighty general reborn to change history.",
+    "coverImg": null,
+    "isCompleted": true,
+    "author": "Iron Fist",
+    "chapters": 180
+  },
+  {
+    "novelId": 7,
+    "title": "The Cursed King",
+    "tag": ["curse", "kingdom", "betrayal"],
+    "genre": ["Fantasy", "Drama"],
+    "discription": "A cursed king fights against destiny.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Fate Weaver",
+    "chapters": 150
+  },
+  {
+    "novelId": 8,
+    "title": "Apocalypse Hunter",
+    "tag": ["survival", "zombies", "system"],
+    "genre": ["Sci-Fi", "Thriller"],
+    "discription": "A lone hunter battles against an undead apocalypse.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "SurvivorX",
+    "chapters": 100
+  },
+  {
+    "novelId": 9,
+    "title": "The Grand Sorcerer",
+    "tag": ["magic", "academia", "mystery"],
+    "genre": ["Fantasy", "Mystery"],
+    "discription": "A young sorcerer unravels an ancient secret.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Spellbinder",
+    "chapters": 130
+  },
+  {
+    "novelId": 10,
+    "title": "The Last Dragon Lord",
+    "tag": ["dragons", "war", "rebirth"],
+    "genre": ["Fantasy", "Action"],
+    "discription": "A dragon lord reborn to protect his race.",
+    "coverImg": null,
+    "isCompleted": true,
+    "author": "DragonHeart",
+    "chapters": 220
+  },
+  {
+    "novelId": 13,
+    "title": "Shadow Assassin",
+    "tag": ["assassin", "revenge", "stealth"],
+    "genre": ["Action", "Thriller"],
+    "discription": "A legendary assassin returns to the underworld.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Silent Dagger",
+    "chapters": 110
+  },
+  {
+    "novelId": 14,
+    "title": "Eternal Phoenix",
+    "tag": ["rebirth", "phoenix", "immortality"],
+    "genre": ["Fantasy", "Mythology"],
+    "discription": "A warrior bound to the phoenix seeks vengeance.",
+    "coverImg": null,
+    "isCompleted": false,
+    "author": "Flame Guardian",
+    "chapters": 160
+  }
+]
